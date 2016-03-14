@@ -1,0 +1,47 @@
+{
+    "custodians" : [
+        {
+            "address" : "",
+            "amount" : 
+        }
+    ],
+    "parkrates" : [
+        {
+            "unit" : "B",
+            "rates" : [
+                {
+                    "blocks" : 16384,
+                    "rate" : 0.0
+                },
+                {
+                    "blocks" : 32768,
+                    "rate" : 0.0
+                },
+                {
+                    "blocks" : 65536,
+                    "rate" : 0.0
+                },
+                {
+                    "blocks" : 131072,
+                    "rate" : 0.0
+                },
+                {
+                    "blocks" : 262144,
+                    "rate" : 0.0
+                },
+                {
+                    "blocks" : 524288,
+                    "rate" : 0.0
+                }
+            ]
+        }
+    ],
+    "motions" : [
+        "",
+        "",
+        ""
+    ],
+    "fees" : {
+        "B" : 0.01
+    }
+}
