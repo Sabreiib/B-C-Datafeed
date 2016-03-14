@@ -1,6 +1,4 @@
 # B-C-Datafeed
 B &amp; C Exchange Datafeed
 
-dsfidf 
-
-dfdfopdsfopds  sdfods 
+I'm Sabre, this is my datafeed for B&C voting.
